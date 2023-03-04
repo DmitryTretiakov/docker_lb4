@@ -4,7 +4,7 @@
 
 ### How To Run
 ```
-git clone https://github.com/DmitryTretiakov/Docker_lb2.git
+git clone https://github.com/DmitryTretiakov/docker_lb4
 ```
 ```
 Собрать Docker образ
