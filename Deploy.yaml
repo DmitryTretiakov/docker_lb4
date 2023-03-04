@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: isis4-web
-          image: dmitrytretiakov/myrepo:docker_lb4
+          image: dmitrytretiakov/myrepo:myapp
           ports:
             - containerPort: 80
           resources:
