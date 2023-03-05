@@ -16,7 +16,7 @@ spec:
         - name: isis4-web
           image: dmitrytretiakov/lab4:latest
           ports:
-            - containerPort: 80
+            - containerPort: 5000
           resources:
             requests:
               cpu: "50m"
